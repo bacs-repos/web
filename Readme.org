@@ -1,0 +1,26 @@
+#+TITLE: bacs configs
+#+DATE: Tuesday, Feb 14 2017
+#+DESCRIPTION: configs/behind the scene things of bacs-repos/web
+
+#+BEGIN_QUOTE
+everything is work in progress
+#+END_QUOTE
+
+Live site is here: https://bacs-repos.github.io/web/
+
+* Acknowledgements
+  - Hugo : https://gohugo.io/
+  - Creative theme :
+    https://github.com/digitalcraftsman/hugo-creative-theme
+    I have changed the pictures,colors... 😬... I will try create PR
+    soon.
+
+  - and pictures srcs (apologies, i have messed up with the
+    size/dimension, i know it looks awry, i will try fix it soon)
+
+* Feedbacks
+  suggest the changes, via [[https://github.com/bacs-repos/web/issues][issues]] or direct msg me. 
+  
+  My story, I am [[https://thapakazi.github.io][thapakazi]] and I am a typo king, self decleared one.
+  and I hate it 😞, so please correct me if you find a typo, I would
+  try find a way to help forward by means possible. Thanks
