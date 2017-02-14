@@ -1,0 +1,118 @@
+baseurl = "https://bacs-repo.github.io/"
+languageCode = "en-us"
+title = "Bihabar Area Concern Society"
+theme = "hugo-creative-theme"
+googleAnalytics = ""
+
+[params]
+
+# You can use Markdown syntax for urls [text](//url.to/source) for
+# most longer texts.
+
+# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
+# for more icons. The icons are represented by their corresponding
+# CSS class.
+
+# All projects of the portfolio are defined in their own files.
+# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+# folder into the 'data' directory at the root of this Hugo site.
+# For more information take a look at the README.
+
+# To provide some metadata for search engines feel free to add some
+# information about you and your website.
+name = "Bihabar Area Concern Society"
+description = "Bihabar Sarokar Saamaj"
+
+# The path must be relative to the static folder
+favicon = "favicon.ico"
+
+
+# Navigation
+[params.navigation]
+brand = "Bihabar Area Concern Society"
+
+[params.navigation.links]
+about     = "About"
+services  = "Concerns"
+portfolio = "Portfolio"
+contact   = "Contact"
+
+
+# Hero section
+[params.hero]
+# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+slogan     = "Prosperous Nepalese Society"
+subtitle   = "Sustainable development with social justice"
+buttonText = "Find out more"
+
+
+# About section
+[params.about]
+headline    = "About Us"
+description = "**_Bihabar Area Concern Society (BACS)_** is a non-governmental and nonprofit making organization founded in _August 27, 2012 (B.S.2069/05/11)_ by the group of motivated social activists with a vision of  **Prosperous Nepalese Society** by inspiring breakthroughs in the current development practice and creating pro-active community for sustainable development, peace and prosperity."
+buttonText  = ""
+
+
+# Service section
+[params.services]
+headline = "Area of Concerns"
+
+[[params.services.list]]
+icon = "fa-road"
+title = "Infrastructure"
+description = "Roads, Schools, Clinics, Cold Store, Temples, Crematory(घाट)"
+
+[[params.services.list]]
+icon = "fa-ambulance"
+title = "Health"
+description = "Principal advisor on health. via campaigns, awareness programs"
+
+[[params.services.list]]
+icon = "fa-tripadvisor"
+title = "Tourism"
+description = "Trekking/Hiking, Home-stays, Cultural Exchange, Paragliding(possibly)"
+
+[[params.services.list]]
+icon = "fa-book"
+title = "Education"
+description = "Enhance perception and knowledge about multiple dimension of life, science and technology"
+
+[[params.services.list]]
+icon = "fa-group"
+title = "Social"
+description = "Social sector enhancements, empowerment"
+
+
+[[params.services.list]]
+icon = "fa-pagelines"
+title = "Agriculture"
+description = "Agriculture & Livestock; Nursery & Organic Farmings"
+
+
+# Portfolio modals
+[params.portfolio.modal]
+client = "Topic"
+date = "Date"
+category = "Category"
+buttonText = "BACK"
+
+# Aside section
+[params.aside]
+headline = "Interested on Learning more"
+
+[params.aside.button]
+text = "Download now"
+link = "//github.com/digitalcraftsman/hugo-creative-theme"
+
+# Contact section
+[params.contact]
+headline = "Lets get connected!"
+description = "I WANT TO BE PART OF THIS BIG PURPOSE. WHAT CAN I DO ?"
+phone = "+977 9841 ... ... / +977 11405027"
+email = "email.bacs@gmail.com"
+
+#Google Maps section
+[params.location]
+latitude  = "27.576009"
+longitude = "85.453819"
+maps_api_key = "AIzaSyAAnIULNsorqRiyg2YaMMYcQfjlT3OpjGI"
