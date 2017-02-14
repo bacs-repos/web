@@ -1,4 +1,4 @@
-baseurl = "https://bacs-repo.github.io/"
+baseurl = "https://bacs-repos.github.io/web"
 languageCode = "en-us"
 title = "Bihabar Area Concern Society"
 theme = "hugo-creative-theme"
