@@ -101,8 +101,8 @@ buttonText = "BACK"
 headline = "Interested on Learning more"
 
 [params.aside.button]
-text = "Download now"
-link = "//github.com/digitalcraftsman/hugo-creative-theme"
+text = "FACEBOOK US"
+link = "//www.facebook.com/connect.bacs"
 
 # Contact section
 [params.contact]
