@@ -101,8 +101,8 @@ buttonText = "BACK"
 headline = "Interested on Learning more"
 
 [params.aside.button]
-text = "FACEBOOK US"
-link = "//www.facebook.com/connect.bacs"
+text = "YOUTUBE US"
+link = "//www.youtube.com/playlist?list=PLAM59Y34eXosRviaRfRJHMBwW_qeISYur"
 
 # Contact section
 [params.contact]
