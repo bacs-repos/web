@@ -110,7 +110,10 @@ headline = "Lets get connected!"
 description = "I WANT TO BE PART OF THIS BIG PURPOSE. WHAT CAN I DO ?"
 phone = "+977 9841 ... ... / +977 11405027"
 email = "email.bacs@gmail.com"
-
+# youtube_title = "youtube us"
+# youtube_url = "https://bit.ly/youtube_bacs"
+facebook = "https://www.facebook.com/connect.bacs"
+facebook_title = "connect.bacs"
 #Google Maps section
 [params.location]
 latitude  = "27.576009"
